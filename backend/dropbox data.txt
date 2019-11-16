@@ -1,0 +1,7 @@
+https://www.dropbox.com/home/veturilo%20dashboard%20soapUI
+
+
+load xml file REST-veturilo-dashboard
+into SoapUI
+
+you have mock of an api, to play on front
